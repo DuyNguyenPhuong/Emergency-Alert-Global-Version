@@ -1,3 +1,3 @@
 # Call-The-Police-Application
 
-<img src="images/CallDemo.jpg" width="1000">
+<img src="images/CallDemo.jpg" width="300">
