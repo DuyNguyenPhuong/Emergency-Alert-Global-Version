@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="4"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/tvNumber"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_weight="4"
+        android:textSize="20dp"
+        android:paddingLeft="25dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:textColorHint="#9E3E3E"
+        android:textFontWeight="@integer/material_motion_duration_long_2"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etText"
+        android:hint="@string/change_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

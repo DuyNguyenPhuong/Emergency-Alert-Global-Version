@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OneTouchHelp</string>
+    <string name="send_text">SEND TEXT</string>
+    <string name="emergency_contact">EMERGENCY CONTACT</string>
+    <string name="text_instruction">Type your message here to send to your emergency contact. Your latitude and longtitude will be sent along with your text</string>
+    <string name="change_number">Change your emergency contact here</string>
+    <string name="dialog_title">Your current number:</string>
+    <string name="default_number">6505556789</string>
+
+
+
+</resources>
