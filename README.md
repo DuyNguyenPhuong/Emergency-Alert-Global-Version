@@ -1,4 +1,4 @@
-# Emergency Alert Global Verion 
+# Emergency Alert Global Version 
 
 ## Overview
 
