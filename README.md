@@ -8,6 +8,26 @@
 <!-- [![MIT License][license-shield]][license-url] -->
 
 
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">Emergency Alert Global Version </h3>
+
+  <p align="center">
+    An app that contacts you to the authority in just 1 click!
+    <br />
+    <a href="https://github.com/DuyNguyenPhuong/Emergency-Alert-Global-Version"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/DuyNguyenPhuong/Emergency-Alert-Global-Version/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/DuyNguyenPhuong/Emergency-Alert-Global-Version/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
 ## Overview
 
 You are walking in a beautiful street in Rome and suddenly you got rob? What will you do? Search the internet to find the police number?
