@@ -64,6 +64,23 @@ This is actually how I was inspired to build this app. When travelling Europe, I
 
 <img src="images/CallDemo.jpg" width="300">
 
+## Built With
+
+[![Kotlin][Kotlin]][Kotlin-url]
+[![Java][Java]]
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -83,7 +100,12 @@ This is actually how I was inspired to build this app. When travelling Europe, I
 [linkedin-url]: https://www.linkedin.com/in/duyngp/
 
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/CallDemo.jpg
+
+[Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[Kotlin]: https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white
+[Kotlin-url]: https://kotlinlang.org/
+
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
