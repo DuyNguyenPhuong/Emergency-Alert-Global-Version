@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Emergency Alert Global Version </h3>
+  <h2 align="center">Emergency Alert Global Version </h3>
 
   <p align="center">
     An app that contacts you to the authority in just 1 click!
@@ -26,9 +26,33 @@
   </p>
 </div>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
 
-## Overview
+## About the project
 
 You are walking in a beautiful street in Rome and suddenly you got rob? What will you do? Search the internet to find the police number?
 No thank you. Here comes Emergency Alert Global Verion, a mobile application that automatically call the police number based on your location. And you can activate it by saying a specific word.
