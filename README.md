@@ -66,8 +66,8 @@ This is actually how I was inspired to build this app. When travelling Europe, I
 
 ## Built With
 
-[![Kotlin][Kotlin]][Kotlin-url]
-[![Java][Java]
+[![Kotlin][Kotlin]][Kotlin-url] <br>
+![Java][Java]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
