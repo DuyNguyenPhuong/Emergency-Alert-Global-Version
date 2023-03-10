@@ -33,7 +33,7 @@ This is actually how I was inspired to build this app. When travelling Europe, I
 [issues-shield]: https://img.shields.io/github/issues/DuyNguyenPhuong/Emergency-Alert-Global-Version.svg?style=for-the-badge
 [issues-url]: https://github.com/DuyNguyenPhuong/Emergency-Alert-Global-Version/issues
 [license-shield]: https://img.shields.io/github/license/DuyNguyenPhuong/Emergency-Alert-Global-Version.svg?style=for-the-badge
-[license-url]: https://github.com/DuyNguyenPhuong/Emergency-Alert-Global-Version/blob/main/LICENSE.txt
+[license-url]: https://github.com/DuyNguyenPhuong/Emergency-Alert-Global-Version/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/duyngp/
 
