@@ -1,5 +1,5 @@
 # Emergency Alert Global Version 
-
+<a name="readme-top"></a>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -62,7 +62,7 @@ This is actually how I was inspired to build this app. When travelling Europe, I
 # This is how it looks like on your phone
 
 
-<img src="images/CallDemo.jpg" width="300">
+<img src="images/CallDemo.jpg" width="100">
 
 ## Built With
 
@@ -73,7 +73,31 @@ This is actually how I was inspired to build this app. When travelling Europe, I
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- GETTING STARTED -->
+## Getting Started
 
+### Prerequisites
+
+To run the app, you must install Anroid Studio [https://developer.android.com/studio]
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/DuyNguyenPhuong/Emergency-Alert-Global-Version.git)
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. In gradle build. Copy and Paste this code
+   ```
+   buildFeatures{
+       viewBinding true
+   }
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
