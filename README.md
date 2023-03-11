@@ -78,7 +78,7 @@ This is actually how I was inspired to build this app. When travelling Europe, I
 
 ### Prerequisites
 
-To run the app, you must install Anroid Studio [https://developer.android.com/studio]
+To run the app, you must install Anroid Studio(https://developer.android.com/studio)
 
 ### Installation
 
@@ -111,7 +111,44 @@ You can run this project by clicking Make Project Button (Green Arrow) in the to
 AndroidStudio ~/my_android_project
 ```
 
-_For more examples, please refer to the [Documentation](https://developer.android.com/studio/run)
+_For more examples, please refer to the [Documentation](https://developer.android.com/studio/run)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Finish the Product
+- [x] Add back to top links
+- [x] Add Additional Templates w/ Examples
+- [x] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Vietnamese
+    - [ ] Spanish
+
+See the [open issues](https://github.com/DuyNguyenPhuong/Emergency-Alert-Global-Version/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
