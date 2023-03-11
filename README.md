@@ -62,7 +62,7 @@ This is actually how I was inspired to build this app. When travelling Europe, I
 # This is how it looks like on your phone
 
 
-<img src="images/CallDemo.jpg" width="100">
+<img src="images/CallDemo.jpg" width="200">
 
 ## Built With
 
@@ -101,6 +101,19 @@ To run the app, you must install Anroid Studio [https://developer.android.com/st
 
 
 
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+You can run this project by clicking Make Project Button (Green Arrow) in the top right of the project or type this in the terminal
+```bash
+AndroidStudio ~/my_android_project
+```
+
+_For more examples, please refer to the [Documentation](https://developer.android.com/studio/run)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
