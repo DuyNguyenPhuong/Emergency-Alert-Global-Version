@@ -52,19 +52,19 @@
 </details>
 
 
-## About the project
+## :high_brightness: About the project
 
 You are walking in a beautiful street in Rome and suddenly you got rob? What will you do? Search the internet to find the police number?
 No thank you. Here comes Emergency Alert Global Verion, a mobile application that automatically call the police number based on your location. And you can activate it by saying a specific word.
 
 This is actually how I was inspired to build this app. When travelling Europe, I was scammed right in front of the Effiel tower, got lost in Munich street and got robbed in Rome. However, in every country, the police number is different. Therefore, I built this app, which takes your location to get the emergency contact and call them whenever you say some words.
 
-# This is how it looks like on your phone
+# :iphone: This is how it looks like on your phone
 
 
 <img src="images/CallDemo.jpg" width="200">
 
-## Built With
+## 🔧 Built With
 
 [![Kotlin][Kotlin]][Kotlin-url] <br>
 ![Java][Java]
@@ -74,7 +74,7 @@ This is actually how I was inspired to build this app. When travelling Europe, I
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## :dizzy: Getting Started
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ To run the app, you must install Anroid Studio(https://developer.android.com/stu
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## :mortar_board: Usage
 
 You can run this project by clicking Make Project Button (Green Arrow) in the top right of the project or type this in the terminal
 ```bash
@@ -118,7 +118,7 @@ _For more examples, please refer to the [Documentation](https://developer.androi
 
 
 <!-- ROADMAP -->
-## Roadmap
+## :mountain_cableway: Roadmap
 
 - [x] Finish the Product
 - [x] Add back to top links
@@ -137,7 +137,7 @@ See the [open issues](https://github.com/DuyNguyenPhuong/Emergency-Alert-Global-
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## :dancer: Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -158,7 +158,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## :lock: License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
